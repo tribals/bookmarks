@@ -16,3 +16,7 @@ The full bookmark tree is displayed on the extension popup using `chrome.bookmar
 4. Experiment with adding and removing bookmarks using the buttons within the popup.
 
 - https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/api-samples/bookmarks
+
+# to/do:
+
+- https://developer.chrome.com/docs/extensions/how-to/test/unit-testing
