@@ -19,4 +19,5 @@ The full bookmark tree is displayed on the extension popup using `chrome.bookmar
 
 # to/do:
 
-- https://developer.chrome.com/docs/extensions/how-to/test/unit-testing
+- [ ] https://developer.chrome.com/docs/extensions/how-to/test/unit-testing
+- [ ] count doubles, show them as `n/d`, where `d` is for "doubles"
